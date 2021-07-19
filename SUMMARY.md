@@ -1,0 +1,52 @@
+# Table of contents
+
+* [About](README.md)
+* [Index](index.md)
+
+## gLAMP Central
+
+* [Documentation](glamp-central/documentation/README.md)
+  * [Style](glamp-central/documentation/style.md)
+  * [Templates](glamp-central/documentation/templates/README.md)
+    * [Element](glamp-central/documentation/templates/element/README.md)
+      * [Notice](glamp-central/documentation/templates/element/notice/README.md)
+        * [Copy Formatted](glamp-central/documentation/templates/element/notice/copy-formatted.md)
+        * [Stub](glamp-central/documentation/templates/element/notice/stub.md)
+        * [Removal](glamp-central/documentation/templates/element/notice/removal.md)
+    * [Page](glamp-central/documentation/templates/page/README.md)
+      * [API](glamp-central/documentation/templates/page/api.md)
+      * [Changelog](glamp-central/documentation/templates/page/changelog.md)
+      * [FAQ](glamp-central/documentation/templates/page/faq.md)
+      * [Guide](glamp-central/documentation/templates/page/guide.md)
+* [Infrastructure](glamp-central/infrastructure/README.md)
+  * [Digital](glamp-central/infrastructure/digital.md)
+  * [Physical](glamp-central/infrastructure/physical.md)
+
+## gLAMP Consortium Review
+
+* [Contents](glamp-consortium-review/contents/README.md)
+  * [Front](glamp-consortium-review/contents/front.md)
+  * [Body](glamp-consortium-review/contents/body.md)
+  * [Topics](glamp-consortium-review/contents/topics.md)
+  * [Back](glamp-consortium-review/contents/back/README.md)
+    * [Glossary](glamp-consortium-review/contents/back/glossary.md)
+    * [References](glamp-consortium-review/contents/back/references/README.md)
+      * [Annotations](glamp-consortium-review/contents/back/references/annotations/README.md)
+        * [Items](glamp-consortium-review/contents/back/references/annotations/items.md)
+        * [Rubric](glamp-consortium-review/contents/back/references/annotations/rubric.md)
+        * [Typesetting Sample](glamp-consortium-review/contents/back/references/annotations/typesetting-sample.md)
+    * [Supplement](glamp-consortium-review/contents/back/supplement.md)
+    * [Web-Only Resources](glamp-consortium-review/contents/back/web-only-resources.md)
+* [Documentation](glamp-consortium-review/documentation/README.md)
+  * [Aims](glamp-consortium-review/documentation/principles.md)
+  * [Basics \(FAQ\)](glamp-consortium-review/documentation/basics.md)
+  * [Content](glamp-consortium-review/documentation/content/README.md)
+    * [Details](glamp-consortium-review/documentation/content/extended-details.md)
+    * [Structure](glamp-consortium-review/documentation/content/structure.md)
+  * [Editorial](glamp-consortium-review/documentation/editorial-information/README.md)
+    * [Changelog](glamp-consortium-review/documentation/editorial-information/changelog.md)
+    * [Notes To Editors](glamp-consortium-review/documentation/editorial-information/notes-to-editors.md)
+* [Feedback](glamp-consortium-review/feedback/README.md)
+  * [Community Comments](glamp-consortium-review/feedback/community-comments.md)
+  * [Peer Review](glamp-consortium-review/feedback/peer-review.md)
+
